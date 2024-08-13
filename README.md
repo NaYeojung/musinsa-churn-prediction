@@ -1,4 +1,4 @@
-# Posture-Analysis-Program
+# Musinsa user churn prediction with review data
 
 
 ## 설치 모듈
@@ -20,7 +20,7 @@ import seaborn as sns
 
 ```
 
-## 사용 설명
+## 프로젝트 설명
 
 <img src="https://github.com/NaYeojung/Posture-analysis-program/assets/107746494/7be35260-a4d2-444b-9092-2e8e522a86f1">
 
