@@ -22,7 +22,7 @@ import seaborn as sns
 
 ## 프로젝트 설명
 
-<img src="https://github.com/NaYeojung/Posture-analysis-program/assets/107746494/7be35260-a4d2-444b-9092-2e8e522a86f1">
+<img src="https://github.com/NaYeojung/Posture-analysis-program/assets/1.png">
 
 ### 1. 자세 분석 및 경고 <br>
 - 어깨의 각도가 지정한 각도 이하가 되면 경고음과 함께 자세를 바로하라는 경고창이 띄워집니다. <br>
