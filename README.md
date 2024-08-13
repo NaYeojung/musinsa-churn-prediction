@@ -42,6 +42,6 @@ import seaborn as sns
 <img src="https://github.com/NaYeojung/musinsa-churn-prediction/blob/88438f5918f60a79ecad3308bfe777b18ce321fd/asset/3.png" width="480px">
 
 ### 3. 가설 검증 및 맞춤형 전략 기획 <br>
-가설 1. 리뷰의 품질이 높을수록 고객의 이탈률이 낮을 것이다.
+가설 1. 리뷰의 품질이 높을수록 고객의 이탈률이 낮을 것이다.<br>
 가설 2. 패션톡을 사용하는 고객은 그렇지 않은 고객에 비해 이탈률이 낮을 것이다.
 <img src="https://github.com/NaYeojung/musinsa-churn-prediction/blob/88438f5918f60a79ecad3308bfe777b18ce321fd/asset/4.png" width="480px">
